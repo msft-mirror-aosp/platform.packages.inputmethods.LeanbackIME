@@ -4,6 +4,8 @@ version_code = "100"
 android_app {
     name: "LeanbackIME",
 
+    product_specific: true,
+
     sdk_version: "system_current",
 
     srcs: [
